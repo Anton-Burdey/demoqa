@@ -1,4 +1,4 @@
-пше ## Playwright автотесты для demoqa.com (Droppable & Draggable)
+## Playwright автотесты для demoqa.com (Droppable & Draggable)
 
 Этот проект содержит e2e‑тесты на **Playwright** для разделов **Droppable** и **Draggable** на сайте `https://demoqa.com`.
 
